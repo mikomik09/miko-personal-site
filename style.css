@@ -1,0 +1,80 @@
+body {
+    background-color: #f1f8e8;
+}
+.profile-img{
+    border-radius: 50%;
+}
+h1{
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#55AD9B
+}
+h2{
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  color: #55AD9B;
+}
+.s2{
+    color:#95d2b3
+}
+ul,.time{
+    font-family: "Nanum Myeongjo", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing:1px;
+}
+#header,#projects{
+  background-color: #D8EFD3;
+}
+.project-img{
+  border-radius: 6%;
+}
+.project-img{
+  border-color: #95D2B3;
+  border-width: 2px;
+  border-radius: 6px;
+  border-style: dashed;
+}
+.s3h3{
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+}
+.list-color1{
+  background-color: #95D2B3;
+}
+.list-color2{
+  background-color:#abe0c6
+}
+.skill-list{
+ text-align: left;
+}
+.about-me{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  letter-spacing: 1px;
+  text-align: left;
+  line-height: 2;
+}
+#contact-me{
+  background-color: #55AD9B;
+}
+.contact{
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 0cap;
+  color: 
+}
